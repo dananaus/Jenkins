@@ -119,7 +119,7 @@
 
     },
     "AWSRegionArch2AMI": {
-      "us-east-2": {
+      "ap-southeast-2": {
         "PV64": "ami-50a2336a",
         "HVM64": "ami-03cbaa39",
         "HVMG2": "ami-73355349"
